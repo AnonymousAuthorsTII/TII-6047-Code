@@ -11,6 +11,7 @@ In provided picture, please note the following:
 2. A tangent tower consists of a vertical main body and outward-extending crossarms. Determine whether the bird nest is located on a crossarm and clearly away from the main body of the vertical tangent tower or concrete pole.
 3. The insulators may be glass, ceramic, or composite insulators and are generally connected to the crossarm through metal fittings.
 4. Bird nests are generally made of branches and straw. If no material is drooping, determine whether the nest is loose or has a large volume. If material is drooping, determine whether it is long enough to clearly exceed the length of the metal hangers connecting the insulators and tangent tower and whether it has wrapped around the insulator.
+5. Consider wind-induced effects: Wind may temporarily lift or deflect flexible branches, straw, or other hanging materials, changing their apparent direction and position. Assess drooping according to the actual extension of the material and its spatial relationship to the metal hangers and insulator, rather than whether it hangs vertically downward.
 
 [Reference Images] Here are four manually verified reference images and their defect grades.
 
