@@ -11,6 +11,7 @@ In provided picture, please note the following:
 2. One end of the aluminum tube is connected to the steel anchor, and the other end is connected to the conductor. If the connection structures are visible, determine whether the left and right ends are connected to the steel anchor or the conductor. Do not infer a connection that is not visible.
 3. Crimping permanently deforms the aluminum tube using hydraulic or mechanical pressure, thereby forming a secure connection with the conductor. A crimped section generally has continuous hexagonal edges or a regularly flattened profile.
 4. An angular or regularly flattened section indicates crimping, whereas a smooth cylindrical section indicates no crimping. Exclude false crimping features caused by illumination, highlights, shadows, corrosion, or image blur.
+5. Consider lighting effects: Lighting, highlights, and shadows may create apparent edges, dark bands, or local flattening on the aluminum tube. Do not interpret these visual effects as crimping unless continuous and regular geometric deformation is clearly visible. Corrosion and image blur should likewise not be treated as evidence of crimping.
 
 [Objective Image] This is the objective image:
 
