@@ -11,6 +11,7 @@ In provided picture, please note the following:
 2. A guying fitting in normal condition is generally bright silver or bright yellow. After prolonged exposure to wind and rain, rust generally appears dark reddish-brown, dark gray, or black.
 3. Minor corrosion generally covers only a local area, leaving the original metallic color clearly visible. Extensive corrosion covers more than half of the fitting surface and, in severe cases, approaches or exceeds three quarters, making the original color difficult to identify.
 4. As corrosion progresses, the surface may become visibly granular, heavily burred, or uneven, and the structure may show visible weathering, damage, or deformation. Assess the corroded area, surface roughness, and structural integrity together.
+5. Consider lighting effects: Lighting, highlights, shadows, and color casts may alter the apparent color of the fitting. Do not identify corrosion solely from isolated dark, reddish-brown, or bright regions. Assess the extent of discoloration together with the surface texture and structural condition of the fitting.
 
 [Reference Images] Here are three manually verified reference images and their defect grades.
 
