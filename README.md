@@ -73,4 +73,4 @@ The numbered directories follow this order. Their README files contain the requi
 | Prompt components | [README](Prompt_Components/README.md) |
 | Metrics | [README](Metrics/README.md) |
 | Additional CPLID benchmark evaluation | [README](<Additional CPLID Benchmark Evaluation/README.md>) |
-| Partial defect-grading standard | [PDF](<Partial Defect Grading Standard for Power Transmission Equipment (Operation Volume, 2022 Edition), 2022 (in Chinese).pdf>) |
+| Partial defect-grading standard | [PDF](<Partial_Defect_Grading_Standard_for_Power_Transmission_Equipment(Operation_Volume_2022Edition)_2022(in_Chinese).pdf>) |
