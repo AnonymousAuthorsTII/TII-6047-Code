@@ -1,0 +1,16 @@
+{
+  "picture": "test_Normal_0842_box1.jpg",
+  "true_grade": "Normal",
+  "response": "{\n  \"has_insulator\": \"存在|蓝色框内可清楚辨认出两串近水平排列的盘形绝缘子，多片棕红色绝缘子片及片间连接可见。\",\n  \"grade_result\": \"Major|蓝色框内下方绝缘子串中部偏右可见一处绝缘子片伞裙明显缺失：相邻完整盘片之间仅见较窄的中央连接部位，缺少周围应有的棕红色盘状伞裙，与两侧完整片体形成明显差异，属于明确破损，符合Major判据。\"\n}",
+  "parsed_json": {
+    "has_insulator": "存在|蓝色框内可清楚辨认出两串近水平排列的盘形绝缘子，多片棕红色绝缘子片及片间连接可见。",
+    "grade_result": "Major|蓝色框内下方绝缘子串中部偏右可见一处绝缘子片伞裙明显缺失：相邻完整盘片之间仅见较窄的中央连接部位，缺少周围应有的棕红色盘状伞裙，与两侧完整片体形成明显差异，属于明确破损，符合Major判据。"
+  },
+  "answer": "Major",
+  "result": 0,
+  "correct": 0,
+  "model": "paper_gllm_insulator_60_language_e300:latest",
+  "prompt_eval_count": 5792,
+  "eval_count": 115,
+  "total_duration": 4558762420
+}
