@@ -1,0 +1,16 @@
+{
+  "picture": "test_Normal_0617_box2.jpg",
+  "true_grade": "Normal",
+  "response": "{\n  \"has_insulator\": \"存在|蓝色框内可辨认出由左上向右下延伸的盘形绝缘子串，多片绝缘子及片间连接关系可见。\",\n  \"grade_result\": \"Normal|蓝色框内可见绝缘子片沿串连续排列，伞盘轮廓可见，未见明确缺失、断裂或破损；局部片体因视角相互重叠，但没有可确认为绝缘子片完整性缺陷的可见证据，符合Normal判据。\"\n}",
+  "parsed_json": {
+    "has_insulator": "存在|蓝色框内可辨认出由左上向右下延伸的盘形绝缘子串，多片绝缘子及片间连接关系可见。",
+    "grade_result": "Normal|蓝色框内可见绝缘子片沿串连续排列，伞盘轮廓可见，未见明确缺失、断裂或破损；局部片体因视角相互重叠，但没有可确认为绝缘子片完整性缺陷的可见证据，符合Normal判据。"
+  },
+  "answer": "Normal",
+  "result": 1,
+  "correct": 1,
+  "model": "paper_gllm_insulator_60_language_e300:latest",
+  "prompt_eval_count": 5792,
+  "eval_count": 107,
+  "total_duration": 4333556585
+}
