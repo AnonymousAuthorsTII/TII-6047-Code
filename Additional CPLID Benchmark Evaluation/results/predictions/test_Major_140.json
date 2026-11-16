@@ -1,0 +1,16 @@
+{
+  "picture": "test_Major_140.jpg",
+  "true_grade": "Major",
+  "response": "{\n  \"has_insulator\": \"存在|蓝色框内可辨认出两串由左上向右下延伸的盘形绝缘子，片体及片间连接清晰可见。\",\n  \"grade_result\": \"Major|蓝色框内上方绝缘子串靠左侧可见一处明显缺损：相邻完整伞盘之间仅剩细窄的中心连接部位，缺少正常向外展开的盘形伞裙，形成明显空缺。该处属于明确的绝缘子片破损，符合至少存在一个绝缘子片缺失、断裂或破损的Major判据。\"\n}",
+  "parsed_json": {
+    "has_insulator": "存在|蓝色框内可辨认出两串由左上向右下延伸的盘形绝缘子，片体及片间连接清晰可见。",
+    "grade_result": "Major|蓝色框内上方绝缘子串靠左侧可见一处明显缺损：相邻完整伞盘之间仅剩细窄的中心连接部位，缺少正常向外展开的盘形伞裙，形成明显空缺。该处属于明确的绝缘子片破损，符合至少存在一个绝缘子片缺失、断裂或破损的Major判据。"
+  },
+  "answer": "Major",
+  "result": 1,
+  "correct": 1,
+  "model": "paper_gllm_insulator_60_language_e300:latest",
+  "prompt_eval_count": 5792,
+  "eval_count": 123,
+  "total_duration": 4570578547
+}
