@@ -1,0 +1,16 @@
+{
+  "picture": "test_Normal_0342_box3.jpg",
+  "true_grade": "Normal",
+  "response": "{\n  \"has_insulator\": \"存在|蓝色框内可辨认出两片棕色盘形绝缘子及其连接部位，片体轮廓和相邻片体的衔接关系可见。\",\n  \"grade_result\": \"Normal|蓝色框内可见的两片绝缘子盘形伞裙完整，相邻片体衔接正常，未见明确缺失、断裂或破损；局部视角及明暗条件未呈现可确认为完整性缺陷的证据，符合Normal标准。\"\n}",
+  "parsed_json": {
+    "has_insulator": "存在|蓝色框内可辨认出两片棕色盘形绝缘子及其连接部位，片体轮廓和相邻片体的衔接关系可见。",
+    "grade_result": "Normal|蓝色框内可见的两片绝缘子盘形伞裙完整，相邻片体衔接正常，未见明确缺失、断裂或破损；局部视角及明暗条件未呈现可确认为完整性缺陷的证据，符合Normal标准。"
+  },
+  "answer": "Normal",
+  "result": 1,
+  "correct": 1,
+  "model": "paper_gllm_insulator_60_language_e300:latest",
+  "prompt_eval_count": 5792,
+  "eval_count": 101,
+  "total_duration": 4263310222
+}
