@@ -90,7 +90,7 @@ python scripts/06_calculate_metrics.py
 
 ## 测试结果
 
-微调模型为 `paper_gllm_insulator_60_language_e300:latest`。该模型使用 30 个 Normal 样本和 30 个 Major 样本进行微调，并在其余 1,257 个样本上进行测试。
+作者团队基于该任务微调Qwen3-VL-8B后的微调模型名为 `paper_gllm_insulator_60_language_e300:latest`。该模型使用 30 个 Normal 样本和 30 个 Major 样本进行微调，并在其余 1,257 个样本上进行测试。
 
 | 指标 | 结果 |
 |---|---:|
